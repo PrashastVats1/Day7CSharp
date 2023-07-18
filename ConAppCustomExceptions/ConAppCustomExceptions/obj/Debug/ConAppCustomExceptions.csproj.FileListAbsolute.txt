@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\bin\Debug\ConAppCustomExceptions.exe.config
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\bin\Debug\ConAppCustomExceptions.exe
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\bin\Debug\ConAppCustomExceptions.pdb
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\obj\Debug\ConAppCustomExceptions.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\obj\Debug\ConAppCustomExceptions.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\obj\Debug\ConAppCustomExceptions.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\obj\Debug\ConAppCustomExceptions.exe
+D:\Mphasis\Live Session\Day6\ConAppCustomExceptions\ConAppCustomExceptions\obj\Debug\ConAppCustomExceptions.pdb

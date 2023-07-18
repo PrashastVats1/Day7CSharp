@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\bin\Debug\ConAppFileDirectoryHandlingEx.exe.config
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\bin\Debug\ConAppFileDirectoryHandlingEx.exe
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\bin\Debug\ConAppFileDirectoryHandlingEx.pdb
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\obj\Debug\ConAppFileDirectoryHandlingEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\obj\Debug\ConAppFileDirectoryHandlingEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\obj\Debug\ConAppFileDirectoryHandlingEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\obj\Debug\ConAppFileDirectoryHandlingEx.exe
+D:\Mphasis\Live Session\Day7\ConAppFileDirectoryHandlingEx\ConAppFileDirectoryHandlingEx\obj\Debug\ConAppFileDirectoryHandlingEx.pdb

@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\bin\Debug\ConAppExceptionHandler.exe.config
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\bin\Debug\ConAppExceptionHandler.exe
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\bin\Debug\ConAppExceptionHandler.pdb
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\obj\Debug\ConAppExceptionHandler.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\obj\Debug\ConAppExceptionHandler.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\obj\Debug\ConAppExceptionHandler.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\obj\Debug\ConAppExceptionHandler.exe
+D:\Mphasis\Live Session\Day6\ConAppExceptionHandler\ConAppExceptionHandler\obj\Debug\ConAppExceptionHandler.pdb
